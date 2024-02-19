@@ -1,0 +1,6 @@
+ccxt
+pandas
+matplotlib
+mplfinance
+numpy
+TA-Lib
